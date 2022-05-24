@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebContent/view/admin/view/index.jsp=UTF-8
+encoding//WebContent/view/client/view/navbar.jsp=UTF-8
+encoding//src/com/namle/controller/OrderController.java=UTF-8
+encoding//src/com/namle/controller/admin/ProductListController.java=UTF-8
